@@ -1,10 +1,8 @@
 def turn_count(board)
 counter = 0
 players = ["X", "O"]
-  board.each{|player|#{player}}
+  board.each do |player|
   counter += 1
-#   if counter == 9
-#   break 
 end
 end
 
