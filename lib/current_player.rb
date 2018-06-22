@@ -5,6 +5,7 @@ counter = 0
   counter += 1
 end
 end
+counter
 end
 
 def current_player(board)
