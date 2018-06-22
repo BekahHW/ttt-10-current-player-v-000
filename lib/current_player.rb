@@ -1,7 +1,7 @@
 def turn_count(board)
 counter = 0
 players = ["X", "O"]
-  board.each{|player| }
+  board.each{|player|#{player} }
   counter += 1
 #   if counter == 9
 #   break 
