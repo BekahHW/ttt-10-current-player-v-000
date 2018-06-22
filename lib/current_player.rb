@@ -5,7 +5,7 @@ players = ["X", "O"]
   counter += 1
 #   if counter == 9
 #   break 
-# end
+end
 end
 
 def current_player(board)
