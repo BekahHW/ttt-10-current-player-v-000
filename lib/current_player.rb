@@ -1,5 +1,8 @@
 def turn_count(board)
 counter = 0
+player_one = "X"
+player_two = "O"
+
   board.each|empty_space| 
   counter += 1
 #   if counter == 9
